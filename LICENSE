@@ -1,15 +1,19 @@
-Copyright (c) [2024-2026], [Amarneethi Ranganathan]
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
-All rights reserved.
+Statement of Purpose
 
-Redistribution and use in source and binary forms, with or without modification, are not permitted without explicit written permission from the copyright owner.
+The "figma-svelte-starter" project is open-sourced under the CC0 1.0 Universal license. By applying this license, the author of "figma-svelte-starter" waives all copyright and related rights to the fullest extent permitted by law.
 
-Permissions:
-- The use of this software for educational, research, or non-commercial purposes is allowed with prior written consent from the copyright owner.
+Copyright Waiver
 
-Prohibitions:
-- Under no circumstances shall the software be used, copied, modified, merged, published, distributed, sublicensed, and/or sold without explicit written permission from the copyright owner.
-- This software shall not be used in a commercial product or service without explicit written permission from the copyright owner.
-- The names of the software contributors may not be used to endorse or promote products derived from this software without specific prior written permission.
+To the extent possible under law, the creator of "figma-svelte-starter" has waived all copyright and related or neighboring rights to this project.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+No Rights Reserved
+
+You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+Disclaimer
+
+The "figma-svelte-starter" project is provided "as-is," without any warranty of any kind, either expressed or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The author shall not be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the work or the use or other dealings in the work.
+
+For more information about this license, visit https://creativecommons.org/publicdomain/zero/1.0/
